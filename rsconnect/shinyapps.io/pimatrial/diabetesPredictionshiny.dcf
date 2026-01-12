@@ -1,0 +1,12 @@
+name: diabetesPredictionshiny
+title: diabetesPredictionshiny
+username: pimatrial
+account: pimatrial
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16406839
+bundleId: 11432359
+url: https://pimatrial.shinyapps.io/diabetesPredictionshiny/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
