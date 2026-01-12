@@ -5,7 +5,7 @@ account: pimatrial
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 16406839
-bundleId: 11432359
+bundleId:
 url: https://pimatrial.shinyapps.io/diabetesPredictionshiny/
 version: 1
 asMultiple: FALSE

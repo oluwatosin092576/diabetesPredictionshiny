@@ -8,7 +8,7 @@ ui <- fluidPage(
 server <- function(input, output, session) {
   mod_diabetes_server(
     id = "diabetes1",
-    model_path = "models/diabetes_tidymodels.rds"
+    model_path = file.path(getwd(), "models", "diabetes_tidymodels.rds")
   )
 }
 
