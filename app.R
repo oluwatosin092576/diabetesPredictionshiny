@@ -1,4 +1,6 @@
 library(shiny)
+library(tidymodels)
+library(ranger)
 source("module.R")
 
 ui <- fluidPage(
