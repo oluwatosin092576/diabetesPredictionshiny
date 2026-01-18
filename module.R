@@ -155,7 +155,7 @@ mod_diabetes_server <- function(id, model_path) {
         `Non-Diabetes probability` = round(non_diabetes_prob, 3),
         `Diabetic status` = status,
         check.names = FALSE
-      )
+      ) 
     })
     
     output$prediction_table <- renderTable({
